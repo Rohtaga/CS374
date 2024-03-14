@@ -14,13 +14,15 @@ buildscript {
         agp_version8 = '4.2.2'
         agp_version9 = agp_version3
         agp_version10 = agp_version6
+        agp_version11 = '7.0.0'
+        agp_version12 = agp_version10
     }
     repositories {
         google()
         jcenter()
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:$agp_version10"
+        classpath "com.android.tools.build:gradle:$agp_version12"
         
 
         // NOTE: Do not place your application dependencies here; they belong
