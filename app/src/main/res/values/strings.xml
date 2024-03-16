@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MidtermRainesWhitehill</string>
+    <string name="liters">TextView</string>
+    <string name="greeting">Hello! Please enter the value of the number of gallons to be converted to liters. This app was developed by Raines Whitehill.</string>
+</resources>
